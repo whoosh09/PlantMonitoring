@@ -1,0 +1,8 @@
+# Hide sensitive info
+secrets.h
+
+# Build artifacts
+*.bin
+*.elf
+build/
+.pio/
