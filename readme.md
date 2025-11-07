@@ -2,7 +2,8 @@
 
 An IoT project that monitors **soil moisture, temperature, and humidity** using **NodeMCU (ESP8266)** and **DHT22**. It automatically alerts you on **Telegram** and controls a **servo shade** to protect your plant when needed.
 
-![projectFinal](https://github.com/user-attachments/assets/1db65656-3c82-485b-a0e4-8f091aceb930)
+![projectFinal](https://github.com/user-attachments/assets/17cc3821-6285-4958-b6a2-2fe88d239ae4)
+
 
 ---
 
@@ -74,7 +75,8 @@ Go to the Dashboard tab and click **“+ Widget”** to start adding widgets. Co
 ---
 
 ## 🖼️ Example Dashboard
-<img width="1873" height="952" alt="netpie" src="https://github.com/user-attachments/assets/52d5c431-e25b-494b-9d6b-f6a7892b7786" />
+<img width="1873" height="952" alt="netpie" src="https://github.com/user-attachments/assets/acfa9d03-e41f-48f5-b922-0b510887e7d4" />
+
 
 ---
 ## 📜 License
